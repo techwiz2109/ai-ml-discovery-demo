@@ -1,0 +1,7 @@
+{
+  "model_type": "demo",
+  "architectures": [
+    "DemoModel"
+  ],
+  "hidden_size": 8
+}
